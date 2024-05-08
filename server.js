@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 const dbPath = path.join(__dirname, 'db/db.json');
 
 // Middleware to parse JSON request bodies
