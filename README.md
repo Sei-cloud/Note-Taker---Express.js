@@ -43,6 +43,8 @@ Add and manage notes on this Express.js web.
 
 3. Click trash icon to delete.
 
+![Demo](./Assets/11-express-homework-demo.gif)
+
 
 ## License
 
